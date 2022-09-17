@@ -213,11 +213,11 @@
 		$(window).stellar();
 	};
 
-	var playRetro = function() {
-		console.log(document.getElementById("fh5co-retro"))
-		var x = document.getElementById("fh5co-retro").autoplay;
-
-	}
+	// var playRetro = function() {
+	// 	var x = document.getElementById("myAudio");
+	// 	console.log(x)
+	// 	x.play();
+	// }
 
 	
 	$(function(){
@@ -232,7 +232,7 @@
 		loaderPage();
 		counter();
 		counterWayPoint();
-		playRetro();
+		// playRetro();
 	});
 
 
