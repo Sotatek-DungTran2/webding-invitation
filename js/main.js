@@ -213,12 +213,6 @@
 		$(window).stellar();
 	};
 
-	// var playRetro = function() {
-	// 	var x = document.getElementById("myAudio");
-	// 	console.log(x)
-	// 	x.play();
-	// }
-
 	
 	$(function(){
 		mobileMenuOutsideClick();
@@ -232,7 +226,6 @@
 		loaderPage();
 		counter();
 		counterWayPoint();
-		// playRetro();
 	});
 
 
